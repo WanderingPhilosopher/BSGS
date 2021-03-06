@@ -1,3 +1,6 @@
+UPDATE:
+I have removed all the BSGS files from version one, for the combined effort, on this page. The BSGS exe file located on main page is the same as Jean Luc's; I just added the function where it will print and save a text document with the public and private keys.  The combined effort seemed to cause confusion because of the pub key shift so now it's back to just searching in the actual 120 bit range. Users can still share ranges searched. I will upload a simple python and batch file to randomly choose ranges to search and keep track of those ranges via a text file.
+
 # BSGS
 Baby Step Giant Step Combined Efforts to Find 1.2 Bitcoin
 
